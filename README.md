@@ -5,3 +5,4 @@
 ## Alunos
 
 - [Fulano da Silva](https://github.com/fulanodasilva)
+- [Caroline Adão](https://github.com/caroladao)
