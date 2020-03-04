@@ -4,4 +4,4 @@
 
 ## Alunos
 
-- [Fulano da Silva](https://github.com/fulanodasilva)
+- [Gabriel dos Santos Souza](https://github.com/gabrieldss)
