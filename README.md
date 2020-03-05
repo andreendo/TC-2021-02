@@ -5,3 +5,6 @@
 ## Alunos
 
 - [Fulano da Silva](https://github.com/fulanodasilva)
+
+
+- [Mariana Felicio](https://github.com/MariFelicio)
