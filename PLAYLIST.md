@@ -11,3 +11,13 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Fluorescent Adolescent](https://www.youtube.com/watch?v=ma9I9VBKPiw)
 - [mico](https://www.youtube.com/watch?v=4fndeDfaWCg)
 
+## Mariana Felício
+
+- [Bossa Nostra - Nação Zumbi](https://www.youtube.com/watch?v=DAHTpJe_p3g)
+- [Go With The Flow - QOTSA](https://www.youtube.com/watch?v=DcHKOC64KnE)
+- [Forest - System of a Down](https://www.youtube.com/watch?v=fBJM0Kt6PFc)
+- [Hearing Damage - Thom Yorke](https://www.youtube.com/watch?v=P7nz6-UVrmU)
+- [The Pretender - Foo Fighters](https://www.youtube.com/watch?v=SBjQ9tuuTJQ)
+- [mico](https://www.youtube.com/watch?v=9doVwhB_n1I)
+
+
