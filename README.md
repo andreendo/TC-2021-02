@@ -5,3 +5,4 @@
 ## Alunos
 
 - [Fulano da Silva](https://github.com/fulanodasilva)
+- [Lucas Pereira de Moura](https://github.com/LucaSansa)
