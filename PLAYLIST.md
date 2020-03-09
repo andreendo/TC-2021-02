@@ -19,3 +19,11 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Cyndi Lauper Girls Just Want To Have Fun](https://www.youtube.com/watch?v=GCtmDqUnrTw)
 - [Xote dos milagres](https://www.youtube.com/watch?v=ZTDStzSs2Wo)
 
+## Lucas Pereira de Moura
+
+- [Ace of Spades](https://www.youtube.com/watch?v=pWB5JZRGl0U)
+- [Frantic](https://www.youtube.com/watch?v=QcHvzNBtlOw)
+- [Heaven and Hell](https://www.youtube.com/watch?v=idn50Xj_CiY)
+- [Electric Eye](https://www.youtube.com/watch?v=yMVV_HsHcX0)
+- [Wasted Years](https://www.youtube.com/watch?v=Ij99dud8-0A)
+- [mico](https://www.youtube.com/watch?v=r0U0AlLVqpk)
