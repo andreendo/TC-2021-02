@@ -5,4 +5,5 @@
 ## Alunos
 
 - [Caroline Adão](https://github.com/caroladao)
+- [Cauê Aquino Nogueira](https://github.com/caueaquino)
 - [Lucas Pereira de Moura](https://github.com/LucaSansa)
