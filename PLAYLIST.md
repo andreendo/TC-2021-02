@@ -20,3 +20,12 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Never Let Me Go](https://www.youtube.com/watch?v=gs9mi4j6_BY)
 - [Ocean](https://www.youtube.com/watch?v=Cfj4fd53--s)
 - [mico](https://www.youtube.com/watch?v=3L5D8by1AtI)
+
+## Lucas Pereira de Moura
+
+- [Ace of Spades](https://www.youtube.com/watch?v=pWB5JZRGl0U)
+- [Frantic](https://www.youtube.com/watch?v=QcHvzNBtlOw)
+- [Heaven and Hell](https://www.youtube.com/watch?v=idn50Xj_CiY)
+- [Electric Eye](https://www.youtube.com/watch?v=yMVV_HsHcX0)
+- [Wasted Years](https://www.youtube.com/watch?v=Ij99dud8-0A)
+- [mico](https://www.youtube.com/watch?v=r0U0AlLVqpk)
