@@ -19,6 +19,16 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Cyndi Lauper Girls Just Want To Have Fun](https://www.youtube.com/watch?v=GCtmDqUnrTw)
 - [Xote dos milagres](https://www.youtube.com/watch?v=ZTDStzSs2Wo)
 
+## Cauê Aquino Nogueira
+
+- [Plush](https://www.youtube.com/watch?v=V5UOC0C0x8Q) 
+- [Everlong](https://www.youtube.com/watch?v=eBG7P-K-r1Y)
+- [A da to remember](https://www.youtube.com/watch?v=m89pFYHHuUA)
+- [Black](https://www.youtube.com/watch?v=4q9UafsiQ6k)
+- [Creep](https://www.youtube.com/watch?v=XFkzRNyygfk)
+- [Ain't No Rest For The Wicked](https://www.youtube.com/watch?v=5t99bpilCKw)
+- [Yellow Ledbetter](https://www.youtube.com/watch?v=hs8y3kneqrs)
+
 ## Lucas Pereira de Moura
 
 - [Ace of Spades](https://www.youtube.com/watch?v=pWB5JZRGl0U)
