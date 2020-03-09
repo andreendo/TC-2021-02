@@ -11,6 +11,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Fluorescent Adolescent](https://www.youtube.com/watch?v=ma9I9VBKPiw)
 - [mico](https://www.youtube.com/watch?v=4fndeDfaWCg)
 
+## Carol Adão
+- [Hoobastank - The Reason](https://www.youtube.com/watch?v=VmW5F943C_Q)
+- [Bon Jovi - Always](https://www.youtube.com/watch?v=9BMwcO6_hyA)
+- [Aerosmith - Crazy](https://www.youtube.com/watch?v=NMNgbISmF4I)
+- [Queen - I Want To Break Free](https://www.youtube.com/watch?v=Z3w5gVM_4y8)
+- [Cyndi Lauper Girls Just Want To Have Fun](https://www.youtube.com/watch?v=GCtmDqUnrTw)
+- [Xote dos milagres](https://www.youtube.com/watch?v=ZTDStzSs2Wo)
+
 ## Lucas Pereira de Moura
 
 - [Ace of Spades](https://www.youtube.com/watch?v=pWB5JZRGl0U)
