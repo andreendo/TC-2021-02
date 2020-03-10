@@ -19,6 +19,16 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Cyndi Lauper Girls Just Want To Have Fun](https://www.youtube.com/watch?v=GCtmDqUnrTw)
 - [Xote dos milagres](https://www.youtube.com/watch?v=ZTDStzSs2Wo)
 
+## Gabriel dos Santos Souza
+
+
+- [Should I Stay or Should I Go](https://www.youtube.com/watch?v=BN1WwnEDWAM)
+- [That's My Way](https://www.youtube.com/watch?v=ysfm_adxRrI)
+- [Wash Away](https://www.youtube.com/watch?v=YTdCzIduUb4)
+- [Never Let Me Go](https://www.youtube.com/watch?v=gs9mi4j6_BY)
+- [Ocean](https://www.youtube.com/watch?v=Cfj4fd53--s)
+- [mico](https://www.youtube.com/watch?v=3L5D8by1AtI)
+
 ## Lucas Pereira de Moura
 
 - [Ace of Spades](https://www.youtube.com/watch?v=pWB5JZRGl0U)
