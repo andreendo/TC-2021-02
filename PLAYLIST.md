@@ -4,10 +4,10 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 ## André Takeshi Endo
 
-- [Whatever](https://www.youtube.com/watch?v=sO7-Mf4fSPQ)
-- [Youthful Days - jp](https://www.youtube.com/watch?v=JHlX4MtHSeU)
-- [Slash + Kid Rock](https://www.youtube.com/watch?v=lzd2KnhLTqU)
-- [Schrei nach Liebe](https://www.youtube.com/watch?v=6X9CEi8wkBc)
-- [Fluorescent Adolescent](https://www.youtube.com/watch?v=ma9I9VBKPiw)
-- [mico](https://www.youtube.com/watch?v=4fndeDfaWCg)
+- [do it all the time](https://www.youtube.com/watch?v=hXzPxBhhmY8)
+- [social climb](https://www.youtube.com/watch?v=6vYwys2e_FA)
+- [choke](https://www.youtube.com/watch?v=mvJjmWTg7Qo)
+- [nobody likes the opening band](https://www.youtube.com/watch?v=2dx9nGBsl7I)
+- [bleed magic](https://www.youtube.com/watch?v=D4Bf8Qhe59U)
+- [mico](https://www.youtube.com/watch?v=5GzYOit0G4E)
 
