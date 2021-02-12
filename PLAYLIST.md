@@ -11,6 +11,12 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Fluorescent Adolescent](https://www.youtube.com/watch?v=ma9I9VBKPiw)
 - [mico](https://www.youtube.com/watch?v=4fndeDfaWCg)
 
+# 2020/02
+
+Novos alunos aqui
+
+# 2020/01 (encerrado)
+
 ## Carol Adão
 - [Hoobastank - The Reason](https://www.youtube.com/watch?v=VmW5F943C_Q)
 - [Bon Jovi - Always](https://www.youtube.com/watch?v=9BMwcO6_hyA)
