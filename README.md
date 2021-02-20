@@ -4,7 +4,7 @@
 
 ## Alunos - 2020-02
 
-- [Fulano Ciclano](https://github.com/fciclano)
+- [Danrlei Andolhe Dal Fré](https://github.com/danrleidalfre)
 
 ## Alunos - 2020-01 (semestre encerrado)
 
