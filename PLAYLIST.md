@@ -13,7 +13,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2020/02
 
-Novos alunos aqui
+## Gabriel Antal
+
+- [Beethoven - Moonlight Sonata](https://www.youtube.com/watch?v=4Tr0otuiQuU)
+- [Scorpions - Rock You Like A Hurricane](https://www.youtube.com/watch?v=6yP1tcy9a10)
+- [Earth Angel (Will You Be Mine) - Marvin Berry & The Starlighters](https://www.youtube.com/watch?v=uBY-9xLGaw8)
+- [Fleetwood Mac - Dreams](https://www.youtube.com/watch?v=mrZRURcb1cM)
+- [Daft Punk ft. Julian Casablancas - Instant Crush](https://www.youtube.com/watch?v=a5uQMwRMHcs)
+- [mico](https://www.youtube.com/watch?v=fWNaR-rxAic)
 
 # 2020/01 (encerrado)
 
