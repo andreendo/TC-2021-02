@@ -5,6 +5,7 @@
 ## Alunos - 2020-02
 
 - [Fulano Ciclano](https://github.com/fciclano)
+- [Gabriel Antal da Silva](https://github.com/GabrielAntal)
 
 ## Alunos - 2020-01 (semestre encerrado)
 
