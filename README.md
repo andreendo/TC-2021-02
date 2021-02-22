@@ -5,6 +5,7 @@
 ## Alunos - 2020-02
 
 - [Danrlei Andolhe Dal Fré](https://github.com/danrleidalfre)
+- [Gabriel Antal da Silva](https://github.com/GabrielAntal)
 
 ## Alunos - 2020-01 (semestre encerrado)
 
