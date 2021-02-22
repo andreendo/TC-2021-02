@@ -13,6 +13,15 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2020/02
 
+## Danrlei Andolhe Dal Fré
+
+- [Sitting, Waiting, Wishing - Jack Johnson](https://www.youtube.com/watch?v=IhTvifGShw4)
+- [Infinita Highway - Engenheiros do Hawai](https://www.youtube.com/watch?v=OUs-0m4pTAI)
+- [Um Bom Lugar - Sabotage](https://www.youtube.com/watch?v=GA7LcSX8tYE)
+- [Memories - Maroon 5](https://www.youtube.com/watch?v=SlPhMPnQ58k)
+- [Free - Donavon Frankenreiter](https://www.youtube.com/watch?v=l3b2k08f3b8)
+- [mico](https://www.youtube.com/watch?v=paKByf8X-gQ)
+
 ## Gabriel Antal
 
 - [Beethoven - Moonlight Sonata](https://www.youtube.com/watch?v=4Tr0otuiQuU)
@@ -25,6 +34,7 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 # 2020/01 (encerrado)
 
 ## Carol Adão
+
 - [Hoobastank - The Reason](https://www.youtube.com/watch?v=VmW5F943C_Q)
 - [Bon Jovi - Always](https://www.youtube.com/watch?v=9BMwcO6_hyA)
 - [Aerosmith - Crazy](https://www.youtube.com/watch?v=NMNgbISmF4I)
@@ -33,7 +43,6 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Xote dos milagres](https://www.youtube.com/watch?v=ZTDStzSs2Wo)
 
 ## Gabriel dos Santos Souza
-
 
 - [Should I Stay or Should I Go](https://www.youtube.com/watch?v=BN1WwnEDWAM)
 - [That's My Way](https://www.youtube.com/watch?v=ysfm_adxRrI)
