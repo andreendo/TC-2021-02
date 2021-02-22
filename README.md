@@ -4,7 +4,7 @@
 
 ## Alunos - 2020-02
 
-- [Fulano Ciclano](https://github.com/fciclano)
+- [Luís Guilherme](https://github.com/luisflorido)
 
 ## Alunos - 2020-01 (semestre encerrado)
 
