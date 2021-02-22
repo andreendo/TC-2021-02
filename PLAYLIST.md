@@ -11,9 +11,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Fluorescent Adolescent](https://www.youtube.com/watch?v=ma9I9VBKPiw)
 - [mico](https://www.youtube.com/watch?v=4fndeDfaWCg)
 
-# 2020/02
+# 2021/01
 
-Novos alunos aqui
+- [HIGHEST IN THE ROOM](https://www.youtube.com/watch?v=tfSS1e3kYeo)
+- [BUTTERFLY EFFECT](https://www.youtube.com/watch?v=_EyZUTDAH0U)
+- [Congratulations ](https://www.youtube.com/watch?v=SC4xMk98Pdc)
+- [Better Now](https://www.youtube.com/watch?v=UYwF-jdcVjY)
+- [WAKE ME UP INSIDE](https://www.youtube.com/watch?v=tOsck7jYUsE)
+- [Coração na Cama](https://www.youtube.com/watch?v=25FtLeamas8)
 
 # 2020/01 (encerrado)
 
