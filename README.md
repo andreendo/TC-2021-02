@@ -4,14 +4,12 @@
 
 ## Alunos - 2020-02
 
-- [Fulano Ciclano](https://github.com/fciclano)
+- [Danrlei Andolhe Dal Fré](https://github.com/danrleidalfre)
+- [Felipe Panizio](https://github.com/FelipePanizio)
+- [Gabriel Antal da Silva](https://github.com/GabrielAntal)
 
 ## Alunos - 2020-01 (semestre encerrado)
 
 - [Caroline Adão](https://github.com/caroladao)
 - [Gabriel dos Santos Souza](https://github.com/gabrieldss)
 - [Lucas Pereira de Moura](https://github.com/LucaSansa)
-
-## Alunos - 2021-01
-
-- [Felipe Panizio](https://github.com/FelipePanizio)
