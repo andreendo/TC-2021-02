@@ -18,7 +18,7 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Congratulations ](https://www.youtube.com/watch?v=SC4xMk98Pdc)
 - [Better Now](https://www.youtube.com/watch?v=UYwF-jdcVjY)
 - [WAKE ME UP INSIDE](https://www.youtube.com/watch?v=tOsck7jYUsE)
-- [Coração na Cama](https://www.youtube.com/watch?v=25FtLeamas8)
+- [Conveniência ](https://www.youtube.com/watch?v=XLMqS71AL6I)
 
 # 2020/01 (encerrado)
 
