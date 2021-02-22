@@ -13,7 +13,13 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2020/02
 
-Novos alunos aqui
+## Luís Guilherme
+- [Gostava tanto de você lofi remix](https://www.youtube.com/watch?v=qqfMAf3IFE0)
+- [Tristeza do jeca](https://www.youtube.com/watch?v=KouAuoqSV3k)
+- [Sete mares](https://www.youtube.com/watch?v=EN-2obhg4To)
+- [Amor de primavera](https://www.youtube.com/watch?v=fcFNL6_nxjs)
+- [Meu disfarce](https://www.youtube.com/watch?v=_opSauZdnYo)
+- [mico](https://www.youtube.com/watch?v=9bjp1eoESvk)
 
 # 2020/01 (encerrado)
 
