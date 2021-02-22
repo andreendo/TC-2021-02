@@ -22,6 +22,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Free - Donavon Frankenreiter](https://www.youtube.com/watch?v=l3b2k08f3b8)
 - [mico](https://www.youtube.com/watch?v=paKByf8X-gQ)
 
+## Felipe Panizio
+- [HIGHEST IN THE ROOM](https://www.youtube.com/watch?v=tfSS1e3kYeo)
+- [BUTTERFLY EFFECT](https://www.youtube.com/watch?v=_EyZUTDAH0U)
+- [Congratulations ](https://www.youtube.com/watch?v=SC4xMk98Pdc)
+- [Better Now](https://www.youtube.com/watch?v=UYwF-jdcVjY)
+- [WAKE ME UP INSIDE](https://www.youtube.com/watch?v=tOsck7jYUsE)
+- [Conveniência ](https://www.youtube.com/watch?v=XLMqS71AL6I)
+
 ## Gabriel Antal
 
 - [Beethoven - Moonlight Sonata](https://www.youtube.com/watch?v=4Tr0otuiQuU)
@@ -30,6 +38,7 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Fleetwood Mac - Dreams](https://www.youtube.com/watch?v=mrZRURcb1cM)
 - [Daft Punk ft. Julian Casablancas - Instant Crush](https://www.youtube.com/watch?v=a5uQMwRMHcs)
 - [mico](https://www.youtube.com/watch?v=fWNaR-rxAic)
+
 
 # 2020/01 (encerrado)
 
