@@ -7,6 +7,7 @@
 - [Danrlei Andolhe Dal Fré](https://github.com/danrleidalfre)
 - [Felipe Panizio](https://github.com/FelipePanizio)
 - [Gabriel Antal da Silva](https://github.com/GabrielAntal)
+- [Guilherme Camargo](https://github.com/camargoguilherme)
 - [Luís Guilherme](https://github.com/luisflorido)
 
 ## Alunos - 2020-01 (semestre encerrado)
