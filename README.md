@@ -8,7 +8,7 @@
 - [Felipe Panizio](https://github.com/FelipePanizio)
 - [Gabriel Antal da Silva](https://github.com/GabrielAntal)
 - [Luís Guilherme](https://github.com/luisflorido)
-- [William Dias](https://github.com/Williamaia)
+- [William Maia Dias](https://github.com/Williamaia)
 ## Alunos - 2020-01 (semestre encerrado)
 
 - [Caroline Adão](https://github.com/caroladao)
