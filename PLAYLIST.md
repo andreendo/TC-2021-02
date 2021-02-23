@@ -56,6 +56,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Meu disfarce](https://www.youtube.com/watch?v=_opSauZdnYo)
 - [mico](https://www.youtube.com/watch?v=9bjp1eoESvk)
 
+## William Dias 
+- [2pac - Fame lyrics](https://www.youtube.com/watch?v=v5GWhNdfhLQ&ab_channel=snoopy)
+- [Eminem - The Real Slim Shady](https://www.youtube.com/watch?v=vTWBQkT9QyE&ab_channel=RaadioUuno-Ainult%5BAinult%5DHitid)
+- [The Notorious B.I.G. - Big Poppa](https://www.youtube.com/watch?v=phaJXp_zMYM&ab_channel=TheNotoriousB.I.G.)
+- [Sabotage (Papatinho Remix) - Respeito é Lei](https://www.youtube.com/watch?v=NEXVRdSF_UA&ab_channel=Sabotage)
+- [Racionais Mc's - A Vida é Desafio](https://www.youtube.com/watch?v=52NT9cSWC_8&ab_channel=RSDivulga-Funk)
+- [Djonga - Hoje Não](https://www.youtube.com/watch?v=qxXr2CYjHl8&ab_channel=Djonga)
+
 # 2020/01 (encerrado)
 
 ## Carol Adão
