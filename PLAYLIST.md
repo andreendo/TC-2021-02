@@ -47,6 +47,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Meu disfarce](https://www.youtube.com/watch?v=_opSauZdnYo)
 - [mico](https://www.youtube.com/watch?v=9bjp1eoESvk)
 
+## William Dias 
+- [2pac - Fame lyrics](encurtador.com.br/ailsL)
+- [Eminem - The Real Slim Shady](encurtador.com.br/zACD8)
+- [The Notorious B.I.G. - Big Poppa](encurtador.com.br/ejuz5)
+- [Sabotage (Papatinho Remix) - Respeito é Lei](encurtador.com.br/gADQ5)
+- [Racionais Mc's - A Vida é Desafio](encurtador.com.br/eEGX2)
+- [Djonga - Hoje Não](encurtador.com.br/bdhim)
+
 # 2020/01 (encerrado)
 
 ## Carol Adão
