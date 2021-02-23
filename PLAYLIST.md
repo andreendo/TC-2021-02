@@ -39,6 +39,15 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Daft Punk ft. Julian Casablancas - Instant Crush](https://www.youtube.com/watch?v=a5uQMwRMHcs)
 - [mico](https://www.youtube.com/watch?v=fWNaR-rxAic)
 
+## Guilherme Camargo
+
+- [Linkin Park - Numb](https://youtu.be/kXYiU_JCYtU?list=RDkXYiU_JCYtU)
+- [Evanescence - Bring Me To Life](https://youtu.be/3YxaaGgTQYM)
+- [Kelly Clarkson - Because Of You](https://youtu.be/Ra-Om7UMSJc)
+- [Capital Inicial - Primeiros Erros (Chove)](https://youtu.be/jabmx3QoJGA)
+- [Detonautas - O dia que não terminou](https://youtu.be/aJzDdSP_LHY?list=RD9dsUVU7ERK4)
+- [Charlie Brown Jr - Céu Azul](https://youtu.be/0dLX40UMUKo?list=RD9dsUVU7ERK4)
+
 ## Luís Guilherme
 - [Gostava tanto de você lofi remix](https://www.youtube.com/watch?v=qqfMAf3IFE0)
 - [Tristeza do jeca](https://www.youtube.com/watch?v=KouAuoqSV3k)
