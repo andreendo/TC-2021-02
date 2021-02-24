@@ -16,7 +16,7 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 ## Thiago Oliveira
 
 - [All I Want - Almanac](https://www.youtube.com/watch?v=R5pXXoxUYBQ)
-- [Basket Case - Twinkle Little Rock Star] (https://www.youtube.com/watch?v=uO4RfLw35is)
+- [Basket Case - Twinkle Little Rock Star](https://www.youtube.com/watch?v=uO4RfLw35is)
 - [Mantra - Chinv](https://www.youtube.com/watch?v=5kYBgazHub4)
 - [Monster - Matchbook Romance](https://www.youtube.com/watch?v=yFdLSM8zVVI)
 - [Hail The Apocalypse - Avatar](https://www.youtube.com/watch?v=zKe8jze56Vg)
