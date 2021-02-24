@@ -73,6 +73,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Racionais Mc's - A Vida é Desafio](https://www.youtube.com/watch?v=52NT9cSWC_8&ab_channel=RSDivulga-Funk)
 - [Djonga - Hoje Não](https://www.youtube.com/watch?v=qxXr2CYjHl8&ab_channel=Djonga)
 
+
+## Gustavo Kenji
+- [Dreamin - The Score](https://www.youtube.com/watch?v=GEK77vOHjyE)
+- [Burn The House Down - AJR](https://www.youtube.com/watch?v=UnyLfqpyi94)
+- [Come Around - Greg Hirooka](https://www.youtube.com/watch?v=Jq3hxCH7FgE)
+- [Swim - Chase Atlantic](https://www.youtube.com/watch?v=lVSBxYjGLPs)
+- [Bad - Christopher](https://www.youtube.com/watch?v=T6tTohWiu5A)
+- [mico](https://www.youtube.com/watch?v=-oYMo8k22Vw)
 # 2020/01 (encerrado)
 
 ## Carol Adão
