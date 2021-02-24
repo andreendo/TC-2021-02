@@ -12,6 +12,7 @@
 - [Luís Guilherme](https://github.com/luisflorido)
 - [William Dias](https://github.com/Williamaia)
 - [Gustavo Kenji](https://github.com/GustavoKenji)
+- [Lucas Belinelli Pereira](https://github.com/lukasbp)
 ## Alunos - 2020-01 (semestre encerrado)
 
 - [Caroline Adão](https://github.com/caroladao)
