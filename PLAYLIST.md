@@ -80,6 +80,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Jack Johnson - Taylor](https://www.youtube.com/watch?v=dTXqR1nsEMo&ab_channel=jackjohnsonmusic)
 - [Wacci - Kirameki](https://www.youtube.com/watch?v=LDDAwKs6YBw&ab_channel=JustMe)
 
+## Gustavo Kenji
+- [Dreamin - The Score](https://www.youtube.com/watch?v=GEK77vOHjyE)
+- [Burn The House Down - AJR](https://www.youtube.com/watch?v=UnyLfqpyi94)
+- [Come Around - Greg Hirooka](https://www.youtube.com/watch?v=Jq3hxCH7FgE)
+- [Swim - Chase Atlantic](https://www.youtube.com/watch?v=lVSBxYjGLPs)
+- [Bad - Christopher](https://www.youtube.com/watch?v=T6tTohWiu5A)
+- [mico](https://www.youtube.com/watch?v=-oYMo8k22Vw)
+
 # 2020/01 (encerrado)
 
 ## Carol Adão
