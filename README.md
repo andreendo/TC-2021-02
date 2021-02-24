@@ -4,6 +4,7 @@
 
 ## Alunos - 2020-02
 
+- [Thiago Oliveira](https://github.com/tgwow)
 - [Danrlei Andolhe Dal Fré](https://github.com/danrleidalfre)
 - [Felipe Panizio](https://github.com/FelipePanizio)
 - [Gabriel Antal da Silva](https://github.com/GabrielAntal)
