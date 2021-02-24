@@ -13,6 +13,15 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2020/02
 
+## Thiago Oliveira
+
+- [All I Want - Almanac](https://www.youtube.com/watch?v=R5pXXoxUYBQ)
+- [Basket Case - Twinkle Little Rock Star](https://www.youtube.com/watch?v=uO4RfLw35is)
+- [Mantra - Chinv](https://www.youtube.com/watch?v=5kYBgazHub4)
+- [Monster - Matchbook Romance](https://www.youtube.com/watch?v=yFdLSM8zVVI)
+- [Hail The Apocalypse - Avatar](https://www.youtube.com/watch?v=zKe8jze56Vg)
+- [mico](https://www.youtube.com/watch?v=s7ThsOamqk4)
+
 ## Danrlei Andolhe Dal Fré
 
 - [Sitting, Waiting, Wishing - Jack Johnson](https://www.youtube.com/watch?v=IhTvifGShw4)
