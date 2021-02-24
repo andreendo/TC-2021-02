@@ -13,6 +13,15 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2020/02
 
+## Gabriel Moura
+
+- [UNDAGROUND - CREEP](https://www.youtube.com/watch?v=isNqNHs74L0)
+- [DEATHEATER - I GOT BANNED FROM HEAVEN](https://www.youtube.com/watch?v=Wuxq3_teNVw)
+- [Poison (DJ Vamp & Baby Gengar)](https://www.youtube.com/watch?v=YaYub-J48uI)
+- [NEILAWORLD - ITACHii](https://www.youtube.com/watch?v=ad14kRQMUnY)
+- [VERDERAME - Tempo](https://www.youtube.com/watch?v=6LHX8s2sirQ)
+- [mico](https://www.youtube.com/watch?v=WIKqgE4BwAY)
+
 ## Thiago Oliveira
 
 - [All I Want - Almanac](https://www.youtube.com/watch?v=R5pXXoxUYBQ)
@@ -72,6 +81,21 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Sabotage (Papatinho Remix) - Respeito é Lei](https://www.youtube.com/watch?v=NEXVRdSF_UA&ab_channel=Sabotage)
 - [Racionais Mc's - A Vida é Desafio](https://www.youtube.com/watch?v=52NT9cSWC_8&ab_channel=RSDivulga-Funk)
 - [Djonga - Hoje Não](https://www.youtube.com/watch?v=qxXr2CYjHl8&ab_channel=Djonga)
+
+## Mateus Kawazoe
+- [Breaking Benjamin - Breath](https://www.youtube.com/watch?v=Ib9swdvt3mA&ab_channel=BreakingBenjamin-Topic)
+- [Linkin Park - Heavy](https://www.youtube.com/watch?v=5dmQ3QWpy1Q&ab_channel=LinkinPark)
+- [Avenged Sevenfold - Gunslinger](https://www.youtube.com/watch?v=3vDetD8cW_o&ab_channel=AvengedSevenfold-Topic)
+- [Jack Johnson - Taylor](https://www.youtube.com/watch?v=dTXqR1nsEMo&ab_channel=jackjohnsonmusic)
+- [Wacci - Kirameki](https://www.youtube.com/watch?v=LDDAwKs6YBw&ab_channel=JustMe)
+
+## Gustavo Kenji
+- [Dreamin - The Score](https://www.youtube.com/watch?v=GEK77vOHjyE)
+- [Burn The House Down - AJR](https://www.youtube.com/watch?v=UnyLfqpyi94)
+- [Come Around - Greg Hirooka](https://www.youtube.com/watch?v=Jq3hxCH7FgE)
+- [Swim - Chase Atlantic](https://www.youtube.com/watch?v=lVSBxYjGLPs)
+- [Bad - Christopher](https://www.youtube.com/watch?v=T6tTohWiu5A)
+- [mico](https://www.youtube.com/watch?v=-oYMo8k22Vw)
 
 # 2020/01 (encerrado)
 
