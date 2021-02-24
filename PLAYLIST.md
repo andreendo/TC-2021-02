@@ -13,6 +13,15 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2020/02
 
+## Gabriel Moura
+
+- [UNDAGROUND - CREEP](https://www.youtube.com/watch?v=isNqNHs74L0)
+- [DEATHEATER - I GOT BANNED FROM HEAVEN](https://www.youtube.com/watch?v=Wuxq3_teNVw)
+- [Poison (DJ Vamp & Baby Gengar)](https://www.youtube.com/watch?v=YaYub-J48uI)
+- [NEILAWORLD - ITACHii](https://www.youtube.com/watch?v=ad14kRQMUnY)
+- [VERDERAME - Tempo](https://www.youtube.com/watch?v=6LHX8s2sirQ)
+- [mico](https://www.youtube.com/watch?v=WIKqgE4BwAY)
+
 ## Thiago Oliveira
 
 - [All I Want - Almanac](https://www.youtube.com/watch?v=R5pXXoxUYBQ)
