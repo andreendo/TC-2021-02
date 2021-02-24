@@ -11,6 +11,7 @@
 - [Guilherme Camargo](https://github.com/camargoguilherme)
 - [Luís Guilherme](https://github.com/luisflorido)
 - [William Dias](https://github.com/Williamaia)
+- [Gustavo Kenji](https://github.com/GustavoKenji)
 ## Alunos - 2020-01 (semestre encerrado)
 
 - [Caroline Adão](https://github.com/caroladao)
