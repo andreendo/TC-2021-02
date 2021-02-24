@@ -97,6 +97,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Bad - Christopher](https://www.youtube.com/watch?v=T6tTohWiu5A)
 - [mico](https://www.youtube.com/watch?v=-oYMo8k22Vw)
 
+## Lucas Belinelli Pereira
+
+- [The Gazette - Nakigahara](https://www.youtube.com/watch?v=FcyCnvu55As)
+- [Iron Maiden - Where eagles dare](https://www.youtube.com/watch?v=NGqbJiq675s)
+- [Rotting Christ - Fifth illusion](https://www.youtube.com/watch?v=8hmduwzlvP4)
+- [Katatonia - In death a song](https://www.youtube.com/watch?v=NiPAx6FSdFo)
+- [Fresno - Stonehenge](https://www.youtube.com/watch?v=PNDkeoYlGKE)
+
 # 2020/01 (encerrado)
 
 ## Carol Adão
