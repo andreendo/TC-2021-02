@@ -13,6 +13,8 @@
 - [William Dias](https://github.com/Williamaia)
 - [Gustavo Kenji](https://github.com/GustavoKenji)
 - [Gabriel Moura](https://github.com/Gabrielbemo)
+- [Mateus Kawazoe](https://github.com/MateusKawazoe)
+
 ## Alunos - 2020-01 (semestre encerrado)
 
 - [Caroline Adão](https://github.com/caroladao)
