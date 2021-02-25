@@ -10,6 +10,7 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Schrei nach Liebe](https://www.youtube.com/watch?v=6X9CEi8wkBc)
 - [Fluorescent Adolescent](https://www.youtube.com/watch?v=ma9I9VBKPiw)
 - [mico](https://www.youtube.com/watch?v=4fndeDfaWCg)
+- 
 
 # 2020/02
 
@@ -133,3 +134,12 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Electric Eye](https://www.youtube.com/watch?v=yMVV_HsHcX0)
 - [Wasted Years](https://www.youtube.com/watch?v=Ij99dud8-0A)
 - [mico](https://www.youtube.com/watch?v=r0U0AlLVqpk)
+
+## Heloisa Soares
+
+- [When the Wild Wind Blows- Iron](https://www.youtube.com/watch?v=WmPTxrJ-kHI)
+- [Michael Jackson Live At Grammy's 1988](https://www.youtube.com/watch?v=LTPqtO5EbFk)
+- [Legião Urbana - Pais E Filhos - Ao Vivo 1990](https://www.youtube.com/watch?v=pp0iUAArvdo)
+- [Racionais - Capítulo 4 Versículo 3 - Show MTV VMB 1998](https://www.youtube.com/watch?v=TITRneC6jLU&list=PLsSJsiqRn4SBxsuKC2ilV8w4ytsSBcS4I)
+- [Avenged Sevenfold- dear god](https://www.youtube.com/watch?v=mzX0rhF8buo)
+- [DJ Khaled - Wild Thoughts](https://www.youtube.com/watch?v=fyaI4-5849w)
