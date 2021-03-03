@@ -14,9 +14,15 @@ describe('Numero Aleatorio',()=>{
             random.NumeroAleatorio(100,-100);
         }). toThrow('Fim negativo')
     })
-    Test('Fim e início iguais em um intervalo entre 200 e 3000',()=>{
-        random.NumeroAleatorio(200,3000);
-        expect(random.n).toBe(random.n);
+    describe('Fim e Ínicio', () => {
+        random.NumeroAleatorio(200, 3000);
+        Test('Fim e início iguais', () => {
+            expect(random.n).toEqual(random.n);
+            console.log(random.n)
+        })
+    })
+    Test('Entre 200 e 3000',()=>{
+        toBeWithinRange(200,3000);
         console.log(random.n)
     })
 
