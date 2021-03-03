@@ -7,12 +7,12 @@ describe('Numero Aleatorio',()=>{
     Test('início negativo',()=>{
         expect(()=>{
             random.NumeroAleatorio(-100,100);
-        }). toThrow('-1')
+        }). toThrow('Início negativo')
     })
     Test('Fim negativo',()=>{
         expect(()=>{
             random.NumeroAleatorio(100,-100);
-        }). toThrow('-1')
+        }). toThrow('Fim negativo')
     })
     Test('Fim e início iguais em um intervalo entre 200 e 3000',()=>{
         random.NumeroAleatorio(200,3000);
