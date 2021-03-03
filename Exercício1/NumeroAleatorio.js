@@ -12,7 +12,8 @@ class NumeroAleatorio {
     }
 
     NumeroAleatorioFunction(inicio, fim) {
-        this.check(inicio, fim);
+        inicio = Math.ceil(inicio);
+        fim = Math.floor(fim);
         const rand = (inicio - fim + 1) + inicio;
         this.numero = Math.floor(Math.random() * rand);
 
