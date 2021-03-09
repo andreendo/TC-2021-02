@@ -15,6 +15,7 @@
 - [Lucas Belinelli Pereira](https://github.com/lukasbp)
 - [Gabriel Moura](https://github.com/Gabrielbemo)
 - [Mateus Kawazoe](https://github.com/MateusKawazoe)
+- [Heloisa Soares](https://github.com/HeloisaSoaresUtpr)
 
 ## Alunos - 2020-01 (semestre encerrado)
 
