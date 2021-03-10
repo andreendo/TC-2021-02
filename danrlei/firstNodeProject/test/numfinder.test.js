@@ -26,4 +26,19 @@ describe("NumFinder", () => {
       numFinder.find([1, 2, 3, { name: "Danrlei" }, 4, 5]);
     }).toThrow("invalid array");
   });
+
+  test("test object initialized with biggest and smallest numbers as null", () => {
+    const nf = new NumFinder();
+    expect(nf.biggest).toBeNull();
+    expect(nf.smallest).toBeNull();
+  });
+
+  test("test go back to null after error", () => {
+    numFinder.find([1, 10]);
+    expect(() => {
+      numFinder.find([]);
+    }).toThrow();
+    expect(numFinder.biggest).toBeNull();
+    expect(numFinder.smallest).toBeNull();
+  });
 });

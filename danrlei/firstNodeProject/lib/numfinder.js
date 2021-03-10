@@ -1,5 +1,16 @@
 class NumFinder {
+  constructor() {
+    this.initVar();
+  }
+
+  initVar() {
+    this.biggest = null;
+    this.smallest = null;
+  }
+
   find(arr) {
+    this.initVar();
+
     if (arr.length === 0) throw "empty array";
 
     for (let el of arr) {
