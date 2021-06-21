@@ -13,7 +13,13 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2021/01
 
-Alunos deste semestre aqui!
+## Eduardo Spagna
+- [AC/DC - Hells Bells](https://www.youtube.com/watch?v=etAIpkdhU9Q)
+- [Linkin Park - Numb](https://youtu.be/kXYiU_JCYtU?list=RDkXYiU_JCYtU)
+- [Iron Maiden - Where eagles dare](https://www.youtube.com/watch?v=NGqbJiq675s)
+- [Charlie Brown Jr - Céu Azul](https://youtu.be/0dLX40UMUKo?list=RD9dsUVU7ERK4)
+- [Turma do Pagode - Camisa 10](https://www.youtube.com/watch?v=oZgYN4qfpl4)
+- [mico](https://www.youtube.com/watch?v=S9Ixa-4zCp8)
 
 # 2020/02
 
