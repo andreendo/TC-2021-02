@@ -4,6 +4,7 @@
 
 ## Alunos - 2021-01
 - [Nome Novo Aluno](https://github.com/link_novo_aluno_github)
+- [Danrlei Andolhe Dal Fré](https://github.com/danrleidalfre)
 
 ## Semestre Passados
 
