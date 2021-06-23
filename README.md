@@ -3,7 +3,7 @@
 - [Prof. André T. Endo](https://github.com/andreendo)
 
 ## Alunos - 2021-01
-- [Nome Novo Aluno](https://github.com/link_novo_aluno_github)
+- [Wilia Rodrigues Bento Alexandre](https://github.com/willTOP2)
 
 ## Semestre Passados
 
