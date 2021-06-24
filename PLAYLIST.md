@@ -13,7 +13,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2021/01
 
-Alunos deste semestre aqui!
+## Jeferson Anderson de Paula da Silva
+
+- [Pra ser Sincero - Engenheiros do Hawai](https://www.youtube.com/watch?v=a-w6tZX2Ono)
+- [Real mcCoy Automatic lover](https://www.youtube.com/watch?v=Kr20jAdM45c)
+- [Gigi D'Agostino - Your love(Elisir)](https://www.youtube.com/watch?v=FHAzoGnyt9I)
+- [Steve Winwood - Valerie](https://www.youtube.com/watch?v=cbKNICg-REA&list=RDMM&start_radio=1&rv=FHAzoGnyt9I)
+- [Scorpions - Still Loving You](https://www.youtube.com/watch?v=kAI0ZixbKX4)
+- [Cyndi Lauper - Girls just want to have fun](https://www.youtube.com/watch?v=PIb6AZdTr-A)
 
 ## Pedro Jorge
 
