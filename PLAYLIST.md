@@ -21,7 +21,17 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Steve Winwood - Valerie](https://www.youtube.com/watch?v=cbKNICg-REA&list=RDMM&start_radio=1&rv=FHAzoGnyt9I)
 - [Scorpions - Still Loving You](https://www.youtube.com/watch?v=kAI0ZixbKX4)
 - [Cyndi Lauper - Girls just want to have fun](https://www.youtube.com/watch?v=PIb6AZdTr-A)
-- 
+
+## Pedro Jorge
+
+- [Ado- USSEEWA](https://www.youtube.com/watch?v=Qp3b-RXtz4w)
+- [Reol - Saisaki](https://www.youtube.com/watch?v=EFTV3IIjeNw)
+- [The Pretty Reckless -  Death By Rock And Roll](https://www.youtube.com/watch?v=BX6KILafIS0)
+- [Calliope × Suisei -  GETCHA!](https://www.youtube.com/watch?v=BX6KILafIS0)
+- [HakobuNe - VERITAS feat.KAREN](https://www.youtube.com/watch?v=m9mK-EtTACM)
+- [NANO - No pain, No game](https://www.youtube.com/watch?v=6S1Ql39yAtQ)
+- [mico](https://www.youtube.com/watch?v=fBUSUzitJ44)
+
 # 2020/02
 
 ## Gabriel Moura
