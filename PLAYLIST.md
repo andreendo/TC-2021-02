@@ -13,7 +13,41 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2021/01
 
-Alunos deste semestre aqui!
+## Eduardo Spagna
+- [AC/DC - Hells Bells](https://www.youtube.com/watch?v=etAIpkdhU9Q)
+- [Linkin Park - Numb](https://youtu.be/kXYiU_JCYtU?list=RDkXYiU_JCYtU)
+- [Iron Maiden - Where eagles dare](https://www.youtube.com/watch?v=NGqbJiq675s)
+- [Charlie Brown Jr - Céu Azul](https://youtu.be/0dLX40UMUKo?list=RD9dsUVU7ERK4)
+- [Turma do Pagode - Camisa 10](https://www.youtube.com/watch?v=oZgYN4qfpl4)
+- [mico](https://www.youtube.com/watch?v=S9Ixa-4zCp8)
+
+## Jeferson Anderson de Paula da Silva
+
+- [Pra ser Sincero - Engenheiros do Hawai](https://www.youtube.com/watch?v=a-w6tZX2Ono)
+- [Real mcCoy Automatic lover](https://www.youtube.com/watch?v=Kr20jAdM45c)
+- [Gigi D'Agostino - Your love(Elisir)](https://www.youtube.com/watch?v=FHAzoGnyt9I)
+- [Steve Winwood - Valerie](https://www.youtube.com/watch?v=cbKNICg-REA&list=RDMM&start_radio=1&rv=FHAzoGnyt9I)
+- [Scorpions - Still Loving You](https://www.youtube.com/watch?v=kAI0ZixbKX4)
+- [Cyndi Lauper - Girls just want to have fun](https://www.youtube.com/watch?v=PIb6AZdTr-A)
+
+## Pedro Jorge
+
+- [Ado- USSEEWA](https://www.youtube.com/watch?v=Qp3b-RXtz4w)
+- [Reol - Saisaki](https://www.youtube.com/watch?v=EFTV3IIjeNw)
+- [The Pretty Reckless -  Death By Rock And Roll](https://www.youtube.com/watch?v=BX6KILafIS0)
+- [Calliope × Suisei -  GETCHA!](https://www.youtube.com/watch?v=BX6KILafIS0)
+- [HakobuNe - VERITAS feat.KAREN](https://www.youtube.com/watch?v=m9mK-EtTACM)
+- [NANO - No pain, No game](https://www.youtube.com/watch?v=6S1Ql39yAtQ)
+- [mico](https://www.youtube.com/watch?v=fBUSUzitJ44)
+
+## Danrlei Andolhe Dal Fré
+
+- [Sitting, Waiting, Wishing - Jack Johnson](https://www.youtube.com/watch?v=IhTvifGShw4)
+- [Infinita Highway - Engenheiros do Hawai](https://www.youtube.com/watch?v=OUs-0m4pTAI)
+- [Um Bom Lugar - Sabotage](https://www.youtube.com/watch?v=GA7LcSX8tYE)
+- [Memories - Maroon 5](https://www.youtube.com/watch?v=SlPhMPnQ58k)
+- [Free - Donavon Frankenreiter](https://www.youtube.com/watch?v=l3b2k08f3b8)
+- [mico](https://www.youtube.com/watch?v=paKByf8X-gQ)
 
 ## Gabriel Moura
 
