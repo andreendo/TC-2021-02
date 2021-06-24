@@ -40,6 +40,15 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [NANO - No pain, No game](https://www.youtube.com/watch?v=6S1Ql39yAtQ)
 - [mico](https://www.youtube.com/watch?v=fBUSUzitJ44)
 
+## Danrlei Andolhe Dal Fré
+
+- [Sitting, Waiting, Wishing - Jack Johnson](https://www.youtube.com/watch?v=IhTvifGShw4)
+- [Infinita Highway - Engenheiros do Hawai](https://www.youtube.com/watch?v=OUs-0m4pTAI)
+- [Um Bom Lugar - Sabotage](https://www.youtube.com/watch?v=GA7LcSX8tYE)
+- [Memories - Maroon 5](https://www.youtube.com/watch?v=SlPhMPnQ58k)
+- [Free - Donavon Frankenreiter](https://www.youtube.com/watch?v=l3b2k08f3b8)
+- [mico](https://www.youtube.com/watch?v=paKByf8X-gQ)
+
 # 2020/02
 
 ## Gabriel Moura

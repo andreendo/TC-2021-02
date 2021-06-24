@@ -3,6 +3,7 @@
 - [Prof. André T. Endo](https://github.com/andreendo)
 
 ## Alunos - 2021-01
+- [Danrlei Andolhe Dal Fré](https://github.com/danrleidalfre)
 - [Eduardo Spagna](https://github.com/eduardo-spagna)
 - [Jeferson Anderson de Paula da Silva](https://github.com/Jefersonps)
 - [pedro jorge](https://github.com/Alysty)
