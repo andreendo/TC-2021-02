@@ -49,6 +49,15 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Free - Donavon Frankenreiter](https://www.youtube.com/watch?v=l3b2k08f3b8)
 - [mico](https://www.youtube.com/watch?v=paKByf8X-gQ)
 
+## Gabriel Moura
+
+- [Florence x Illuzion On The Beat - NORMAL](https://www.youtube.com/watch?v=h-QUDQZUyko)
+- [2.Yung Buda - Sono Chi No Sadame (ft. Gu)](https://www.youtube.com/watch?v=vEd_hE1G6V8)
+- [dirtyvanz](https://www.youtube.com/watch?v=L2gnIb1zUOE)
+- [DATABASE - Flameboi Matt [Official Lyric Video]](https://www.youtube.com/watch?v=DeLGQhNRZh0)
+- [Heavy](https://www.youtube.com/watch?v=JsaO484S54c)
+- [mico](https://www.youtube.com/watch?v=l2f-24JiUsU)
+
 # 2020/02
 
 ## Gabriel Moura
