@@ -3,7 +3,9 @@
 - [Prof. André T. Endo](https://github.com/andreendo)
 
 ## Alunos - 2021-01
-- [Nome Novo Aluno](https://github.com/link_novo_aluno_github)
+- [Eduardo Spagna](https://github.com/eduardo-spagna)
+- [Jeferson Anderson de Paula da Silva](https://github.com/Jefersonps)
+- [pedro jorge](https://github.com/Alysty)
 
 ## Semestre Passados
 
