@@ -5,7 +5,7 @@
 ## Alunos - 2021-02
 - [Novo Aluno](https://github.com/novo_aluno)
 
-## Semestre Passados
+## Semestres Passados
 
 ### Alunos - 2021-01 (semestre encerrado)
 - [Danrlei Andolhe Dal Fré](https://github.com/danrleidalfre)
