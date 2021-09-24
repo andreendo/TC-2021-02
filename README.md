@@ -3,11 +3,13 @@
 - [Prof. André T. Endo](https://github.com/andreendo)
 
 ## Alunos - 2021-02
-- [Novo Aluno](https://github.com/novo_aluno)
+
+- [Guilherme Camargo](https://github.com/camargoguilherme)
 
 ## Semestres Passados
 
 ### Alunos - 2021-01 (semestre encerrado)
+
 - [Danrlei Andolhe Dal Fré](https://github.com/danrleidalfre)
 - [Eduardo Spagna](https://github.com/eduardo-spagna)
 - [Gabriel Moura](https://github.com/Gabrielbemo)
