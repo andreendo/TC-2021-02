@@ -13,9 +13,19 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2021/02
 
+## Guilherme Camargo
+
+- [Back in Black](https://www.youtube.com/watch?v=pAgnJDJN4VA)
+- [Sweet Child O' Mine](https://www.youtube.com/watch?v=HlEuo9aR7Qo)
+- [Como Tudo Deve Ser](https://www.youtube.com/watch?v=k7pr4VTk5cQ)
+- [Take On Me](https://www.youtube.com/watch?v=djV11Xbc914)
+- [All Star](https://www.youtube.com/watch?v=L_jWHffIx5E)
+- [mico](https://www.youtube.com/watch?v=diFxou34F1w)
+
 # 2021/01 (encerrado)
 
 ## Eduardo Spagna
+
 - [AC/DC - Hells Bells](https://www.youtube.com/watch?v=etAIpkdhU9Q)
 - [Linkin Park - Numb](https://youtu.be/kXYiU_JCYtU?list=RDkXYiU_JCYtU)
 - [Iron Maiden - Where eagles dare](https://www.youtube.com/watch?v=NGqbJiq675s)
@@ -36,8 +46,8 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 - [Ado- USSEEWA](https://www.youtube.com/watch?v=Qp3b-RXtz4w)
 - [Reol - Saisaki](https://www.youtube.com/watch?v=EFTV3IIjeNw)
-- [The Pretty Reckless -  Death By Rock And Roll](https://www.youtube.com/watch?v=BX6KILafIS0)
-- [Calliope × Suisei -  GETCHA!](https://www.youtube.com/watch?v=BX6KILafIS0)
+- [The Pretty Reckless - Death By Rock And Roll](https://www.youtube.com/watch?v=BX6KILafIS0)
+- [Calliope × Suisei - GETCHA!](https://www.youtube.com/watch?v=BX6KILafIS0)
 - [HakobuNe - VERITAS feat.KAREN](https://www.youtube.com/watch?v=m9mK-EtTACM)
 - [NANO - No pain, No game](https://www.youtube.com/watch?v=6S1Ql39yAtQ)
 - [mico](https://www.youtube.com/watch?v=fBUSUzitJ44)
@@ -90,12 +100,13 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [mico](https://www.youtube.com/watch?v=paKByf8X-gQ)
 
 ## Felipe Panizio
+
 - [HIGHEST IN THE ROOM](https://www.youtube.com/watch?v=tfSS1e3kYeo)
 - [BUTTERFLY EFFECT](https://www.youtube.com/watch?v=_EyZUTDAH0U)
-- [Congratulations ](https://www.youtube.com/watch?v=SC4xMk98Pdc)
+- [Congratulations](https://www.youtube.com/watch?v=SC4xMk98Pdc)
 - [Better Now](https://www.youtube.com/watch?v=UYwF-jdcVjY)
 - [WAKE ME UP INSIDE](https://www.youtube.com/watch?v=tOsck7jYUsE)
-- [Conveniência ](https://www.youtube.com/watch?v=XLMqS71AL6I)
+- [Conveniência](https://www.youtube.com/watch?v=XLMqS71AL6I)
 
 ## Gabriel Antal
 
@@ -116,6 +127,7 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Charlie Brown Jr - Céu Azul](https://youtu.be/0dLX40UMUKo?list=RD9dsUVU7ERK4)
 
 ## Luís Guilherme
+
 - [Gostava tanto de você lofi remix](https://www.youtube.com/watch?v=qqfMAf3IFE0)
 - [Tristeza do jeca](https://www.youtube.com/watch?v=KouAuoqSV3k)
 - [Sete mares](https://www.youtube.com/watch?v=EN-2obhg4To)
@@ -123,7 +135,8 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Meu disfarce](https://www.youtube.com/watch?v=_opSauZdnYo)
 - [mico](https://www.youtube.com/watch?v=9bjp1eoESvk)
 
-## William Dias 
+## William Dias
+
 - [2pac - Fame lyrics](https://www.youtube.com/watch?v=v5GWhNdfhLQ&ab_channel=snoopy)
 - [Eminem - The Real Slim Shady](https://www.youtube.com/watch?v=vTWBQkT9QyE&ab_channel=RaadioUuno-Ainult%5BAinult%5DHitid)
 - [The Notorious B.I.G. - Big Poppa](https://www.youtube.com/watch?v=phaJXp_zMYM&ab_channel=TheNotoriousB.I.G.)
@@ -132,6 +145,7 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Djonga - Hoje Não](https://www.youtube.com/watch?v=qxXr2CYjHl8&ab_channel=Djonga)
 
 ## Mateus Kawazoe
+
 - [Breaking Benjamin - Breath](https://www.youtube.com/watch?v=Ib9swdvt3mA&ab_channel=BreakingBenjamin-Topic)
 - [Linkin Park - Heavy](https://www.youtube.com/watch?v=5dmQ3QWpy1Q&ab_channel=LinkinPark)
 - [Avenged Sevenfold - Gunslinger](https://www.youtube.com/watch?v=3vDetD8cW_o&ab_channel=AvengedSevenfold-Topic)
@@ -139,6 +153,7 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Wacci - Kirameki](https://www.youtube.com/watch?v=LDDAwKs6YBw&ab_channel=JustMe)
 
 ## Gustavo Kenji
+
 - [Dreamin - The Score](https://www.youtube.com/watch?v=GEK77vOHjyE)
 - [Burn The House Down - AJR](https://www.youtube.com/watch?v=UnyLfqpyi94)
 - [Come Around - Greg Hirooka](https://www.youtube.com/watch?v=Jq3hxCH7FgE)
