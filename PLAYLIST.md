@@ -13,6 +13,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2021/02
 
+## Thiago Dourado Rodrigues
+- [The Strokes - Is This It](https://www.youtube.com/watch?v=Hgqp7l9s_9o)
+- [Madvillain - Accordion](https://www.youtube.com/watch?v=rpaonSDPw7Y)
+- [Massego,FKJ - Tadow](https://www.youtube.com/watch?v=hC8CH0Z3L54)
+- [John Mayer - New Light](https://www.youtube.com/watch?v=mQ055hHdxbE)
+- [Chico Buarque - Construção](https://www.youtube.com/watch?v=wBfVsucRe1w)
+- [mico](https://www.youtube.com/watch?v=gdZLi9oWNZg)
+
 # 2021/01 (encerrado)
 
 ## Eduardo Spagna
