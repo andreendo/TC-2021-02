@@ -191,3 +191,12 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Racionais - Capítulo 4 Versículo 3 - Show MTV VMB 1998](https://www.youtube.com/watch?v=TITRneC6jLU&list=PLsSJsiqRn4SBxsuKC2ilV8w4ytsSBcS4I)
 - [Avenged Sevenfold- dear god](https://www.youtube.com/watch?v=mzX0rhF8buo)
 - [DJ Khaled - Wild Thoughts](https://www.youtube.com/watch?v=fyaI4-5849w)
+
+## Tatiana Yukie
+
+- [eight Feat. SUGA of BTS](https://www.youtube.com/watch?v=TgOu00Mf3kI)
+- [BLACKPINK - Lovesick Girls JP Ver.](https://www.youtube.com/watch?v=ds0fyCwym6o)
+- [LOONA - Star](https://www.youtube.com/watch?v=GzdZSz9POm4)
+- [Billie Eilish - Bellyache](https://www.youtube.com/watch?v=gBRi6aZJGj4)
+- [RICH BRIAN & CHUNG HA - THESE NIGHTS](https://www.youtube.com/watch?v=qQjMMEWaWsc)
+- [mico](https://www.youtube.com/watch?v=_C3V1Q0KAss)
