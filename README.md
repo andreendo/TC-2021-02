@@ -4,6 +4,7 @@
 
 ## Alunos - 2021-02
 - [Novo Aluno](https://github.com/novo_aluno)
+- [Ana Marie Fatori](https://github.com/Ana-Marie)
 
 ## Semestres Passados
 
