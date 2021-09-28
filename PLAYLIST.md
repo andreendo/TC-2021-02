@@ -13,6 +13,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2021/02
 
+## Nicole Beatriz
+- [Arctic Monkeys - Why'd You Only Call Me When You're High?](https://www.youtube.com/watch?v=6366dxFf-Os)
+- [Nothing But Thieves - Futureproof](https://www.youtube.com/watch?v=8E-anGEPhFU)
+- [Royal Blood - Oblivion](https://www.youtube.com/watch?v=rA1hBL_-oZc)
+- [Foster The People - Imagination](https://www.youtube.com/watch?v=u209iGyUUCY)
+- [The Neighbourhood - Lost in Translation](https://www.youtube.com/watch?v=quCfXrbqF0o)
+- [mico](https://www.youtube.com/watch?v=MUNyA5VY8mw)
+
 # 2021/01 (encerrado)
 
 ## Eduardo Spagna
