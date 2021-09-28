@@ -3,7 +3,7 @@
 - [Prof. André T. Endo](https://github.com/andreendo)
 
 ## Alunos - 2021-02
-- [Novo Aluno](https://github.com/novo_aluno)
+- [Danrlei Andolhe Dal Fré](https://github.com/danrleidalfre)
 
 ## Semestres Passados
 

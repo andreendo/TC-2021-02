@@ -13,6 +13,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2021/02
 
+## Danrlei Andolhe Dal Fré
+- [Luan Santana - MORENA](https://www.youtube.com/watch?v=ZIiQ1jMqhVM)
+- [Internacional Solomalevi](https://www.youtube.com/watch?v=gzyeV7aBBME)
+- [Você Beberia Ou Não Beberia?](https://www.youtube.com/watch?v=28clKABy2jI)
+- [Os Barões da Pisadinha, Maiara & Maraisa - Zero Saudade](https://www.youtube.com/watch?v=ctOe1CcEAik)
+- [Marília Mendonça - Troca de Calçada](https://www.youtube.com/watch?v=WkYqQctOi9g)
+- [Israel & Rodolffo - Batom De Cereja](https://www.youtube.com/watch?v=3vYeQLJ2as4)
+
 # 2021/01 (encerrado)
 
 ## Eduardo Spagna
