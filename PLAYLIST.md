@@ -13,6 +13,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2021/02
 
+## Bruno Marques Caroba
+- [Kanye West - Jail pt 2](https://www.youtube.com/watch?v=iHENh7CxlpU)
+- [Rina Sawayama, Elton John - Chosen Family](https://www.youtube.com/watch?v=GTDRg5G77x4)
+- [Drake - Nice For What](https://www.youtube.com/watch?v=U9BwWKXjVaI)
+- [Kanye West - Ghost Town](https://www.youtube.com/watch?v=5S6az6odzPI)
+- [Kanye West - No Child Left Behind](https://www.youtube.com/watch?v=63aPcK6CXyA)
+- [mico](https://www.youtube.com/watch?v=B5-X_3_Kpww)
+
 # 2021/01 (encerrado)
 
 ## Eduardo Spagna
