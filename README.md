@@ -4,6 +4,7 @@
 
 ## Alunos - 2021-02
 - [Novo Aluno](https://github.com/novo_aluno)
+- [Gabriel Salomão Almeida da Silva][https://github.com/Gabriel-CSS]
 
 ## Semestres Passados
 
