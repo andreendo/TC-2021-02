@@ -191,3 +191,12 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Racionais - Capítulo 4 Versículo 3 - Show MTV VMB 1998](https://www.youtube.com/watch?v=TITRneC6jLU&list=PLsSJsiqRn4SBxsuKC2ilV8w4ytsSBcS4I)
 - [Avenged Sevenfold- dear god](https://www.youtube.com/watch?v=mzX0rhF8buo)
 - [DJ Khaled - Wild Thoughts](https://www.youtube.com/watch?v=fyaI4-5849w)
+
+## Leonardo Carvalho Goulart
+
+- [twenty one pilots: Heathens ](https://www.youtube.com/watch?v=UprcpdwuwCg&ab_channel=FueledByRamen)
+- [Imagine Dragons - Believer](https://www.youtube.com/watch?v=7wtfhZwyrcc&ab_channel=ImagineDragonsVEVO)
+- [OneRepublic - Counting Stars](https://www.youtube.com/watch?v=hT_nvWreIhg&ab_channel=OneRepublicVEVO)
+- [Milky Chance - Stolen Dance](https://www.youtube.com/watch?v=iX-QaNzd-0Y&ab_channel=MilkyChanceOfficial)
+- [Eminem - Stan](https://www.youtube.com/watch?v=bECU740AgfU&list=LL&index=54&ab_channel=LegendasdoRAP)
+- [Akon - Smack That ft. Eminem](https://www.youtube.com/watch?v=bKDdT_nyP54&ab_channel=AkonVEVO)
