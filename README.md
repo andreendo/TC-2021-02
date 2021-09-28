@@ -14,6 +14,7 @@
 - [Jeferson Anderson de Paula da Silva](https://github.com/Jefersonps)
 - [pedro jorge](https://github.com/Alysty)
 - [Wilia Rodrigues Bento Alexandre](https://github.com/willTOP2)
+- [Marcos Henrique Gaspari](https://github.com/MarcosGaspari)
 
 ### Alunos - 2020-02 (semestre encerrado)
 
