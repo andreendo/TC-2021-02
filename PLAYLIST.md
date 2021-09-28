@@ -13,6 +13,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2021/02
 
+## Gabriel Salomão Almeida da Silva
+- [É Isso Aí - Ana Carolina e Seu Jorge](https://www.youtube.com/watch?v=3rn2N0ZbLEQ)
+- [Toxicity - System Of A Down](https://www.youtube.com/watch?v=iywaBOMvYLI)
+- [Pra não dizer que não falei das flores - Geraldo Vandré](https://www.youtube.com/watch?v=KdvsXn8oVPY)
+- [Lagrimas do Palhaço - Kamau](https://www.youtube.com/watch?v=OJUbpyJm8eE)
+- [De volta para o passado - Fabio Brazza](https://www.youtube.com/watch?v=vn-UCicOdSo)
+- [Canão foi tão bom - Sabotage](https://www.youtube.com/watch?v=WF7LLl7r4Os)
+
 # 2021/01 (encerrado)
 
 ## Eduardo Spagna
