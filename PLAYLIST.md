@@ -13,6 +13,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2021/02
 
+## Tiago Perri Gonçalves de Oliveira
+- [Ensaio sobre a lucidez - Sant & LP Beatzz](https://www.youtube.com/watch?v=5ecNwUlNP0E)
+- [Kyoto - Froid](https://www.youtube.com/watch?v=JWzgxmFDY9k)
+- [Cleane - CRIOLO & Tropkillaz](https://www.youtube.com/watch?v=SBRFdIc1o8E)
+- [Frio - Mateca](https://www.youtube.com/watch?v=n92F6oDxBe0)
+- [OPRES - NP Vocal, Sant & Lucas Gali](https://www.youtube.com/watch?v=V78rLp6ONlI)
+- [mico | Undererê - Inês Brasil](https://www.youtube.com/watch?v=xXBiF8qtnQ0)
+
 # 2021/01 (encerrado)
 
 ## Eduardo Spagna
