@@ -12,6 +12,11 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [mico](https://www.youtube.com/watch?v=4fndeDfaWCg)
 
 # 2021/02
+- [PÉRICLES - ATÉ QUE DUROU](https://www.youtube.com/watch?v=T3Y6RRSDm4o)
+- [Alceu Valenca - Anunciação](https://www.youtube.com/watch?v=OR74idpsweg&list=RDMMOR74idpsweg&start_radio=1)
+- [Quebro Meu Vaso ](https://www.youtube.com/watch?v=RXlDfjDg738)
+- [Encore - Construtor](https://www.youtube.com/watch?v=sI1UOkEaFRg)
+- [mico](https://www.youtube.com/watch?v=LfL4H0e5-Js)
 
 # 2021/01 (encerrado)
 
