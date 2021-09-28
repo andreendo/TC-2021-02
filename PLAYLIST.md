@@ -12,6 +12,13 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [mico](https://www.youtube.com/watch?v=4fndeDfaWCg)
 
 # 2021/02
+## Ana Marie Fatori
+- [Minami - Main actor](https://www.youtube.com/watch?v=jb4ybTQwcdw)
+- [The Neighbourhood (Max & Alyson Stoner Cover) - Sweater Weather](https://www.youtube.com/watch?v=0TSxB_Tb2F0)
+- [NEFFEX - Destiny](https://www.youtube.com/watch?v=24C8r8JupYY)
+- [Imagine Dragons - Believer](https://www.youtube.com/watch?v=qoTUdk88ls4)
+- [VMZ - Plutão](https://www.youtube.com/watch?v=dTFDRIaQ1ck)
+- [The Chainsmokers ft. Phoebe Ryan - All we know](https://www.youtube.com/watch?v=lEi_XBg2Fpk)
 
 # 2021/01 (encerrado)
 
