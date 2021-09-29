@@ -191,3 +191,12 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Racionais - Capítulo 4 Versículo 3 - Show MTV VMB 1998](https://www.youtube.com/watch?v=TITRneC6jLU&list=PLsSJsiqRn4SBxsuKC2ilV8w4ytsSBcS4I)
 - [Avenged Sevenfold- dear god](https://www.youtube.com/watch?v=mzX0rhF8buo)
 - [DJ Khaled - Wild Thoughts](https://www.youtube.com/watch?v=fyaI4-5849w)
+
+## João Marcel
+
+- [Armata Strigoi] (https://www.youtube.com/watch?v=w1TWhBwM7iM)
+- [Dumpster World] (https://www.youtube.com/watch?v=9q87OT0VIt8)
+- [Society] (https://www.youtube.com/watch?v=ABsslEoL0-c)
+- [Jezebel] (https://www.youtube.com/watch?v=dHf4XnjosiQ)
+- [Know Your Enemy] (https://www.youtube.com/watch?v=JukTvlrh-Wk)
+- [MICO] (https://www.youtube.com/watch?v=5TFZdJuBGkU)
