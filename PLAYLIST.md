@@ -13,6 +13,15 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2021/02
 
+## Gabriel Del Padre Paleta
+
+- [Lightbringer - pentakill](https://www.youtube.com/watch?v=oXSLYEqFnO4&ab_channel=RiotGamesMusic)
+- [Faded guitar cover - kfir ochaion](https://www.youtube.com/watch?v=OzeoJlzkkPE&ab_channel=KfirOchaion)
+- [Sweet Child O' Mine guitar cover - kfir ochaion](https://www.youtube.com/watch?v=8RKwo_fIdI0&ab_channel=KfirOchaion)
+- [Crazy Frog guitar cover - kfir ochaion](https://www.youtube.com/watch?v=H7CC2cJUku0&ab_channel=KfirOchaion)
+- [Lost chaper - pentakill](https://www.youtube.com/watch?v=5IWS7Y5KRhk&ab_channel=RiotGamesMusic)
+- [mico](https://www.youtube.com/watch?v=GTXW3cIHQOw&ab_channel=RadialbyTheOrchard)
+
 # 2021/01 (encerrado)
 
 ## Eduardo Spagna
