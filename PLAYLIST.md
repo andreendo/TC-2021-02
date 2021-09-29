@@ -13,6 +13,15 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2021/02
 
+## Marcus Vinicius Braz
+
+- [Arctic Monkeys - Do I Wanna Know?](https://www.youtube.com/watch?v=bpOSxM0rNPM&ab_channel=OfficialArcticMonkeys)
+- [twenty one pilots - Ride (Official Video)](https://www.youtube.com/watch?v=Pw-0pbY9JeU&ab_channel=twentyonepilots)
+- [Kamaitachi ft. Sanza - Cachecol](https://www.youtube.com/watch?v=SI4SFkqDuL0&ab_channel=kamaitachi)
+- [Mix Menos é Mais](https://www.youtube.com/watch?v=zKAAFsovtM4&ab_channel=GrupoMenos%C3%A9Mais)
+- [Vem Cá - Pelé MilFlows](https://www.youtube.com/watch?v=lV2plyhSRBU&ab_channel=ALTAMIRATV)
+- [mico](https://www.youtube.com/watch?v=k85mRPqvMbE&ab_channel=CrazyFrog)
+
 # 2021/01 (encerrado)
 
 ## Eduardo Spagna
