@@ -13,6 +13,15 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2021/02
 
+## Felipe Paulo de Souza
+- [Tonight Alive - World Away](https://www.youtube.com/watch?v=W0C_HdIyOqc)
+- [Yours Truly - I Can't Feel](https://www.youtube.com/watch?v=hxRDfVFSD3M)
+- [Vonray - Inside out](https://www.youtube.com/watch?v=aNzfyXO4FvA)
+- [Live - Heaven](https://www.youtube.com/watch?v=z_nImUzRv0w)
+- [Ready to Rock · Melidian](https://www.youtube.com/watch?v=ZBu81hm8gt0)
+- [mico](https://www.youtube.com/watch?v=pC_jPQIH4I8)
+
+
 # 2021/01 (encerrado)
 
 ## Eduardo Spagna
