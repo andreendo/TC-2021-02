@@ -4,6 +4,7 @@
 
 ## Alunos - 2021-02
 - [Novo Aluno](https://github.com/novo_aluno)
+- [Gustavo Kenji](https://github.com/GustavoKenji)
 
 ## Semestres Passados
 
