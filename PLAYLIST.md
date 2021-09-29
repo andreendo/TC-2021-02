@@ -13,7 +13,7 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2021/02
 
-## Felipe Paulo de Souza
+## Felipe Paulo
 - [Tonight Alive - World Away](https://www.youtube.com/watch?v=W0C_HdIyOqc)
 - [Yours Truly - I Can't Feel](https://www.youtube.com/watch?v=hxRDfVFSD3M)
 - [Vonray - Inside out](https://www.youtube.com/watch?v=aNzfyXO4FvA)
