@@ -13,6 +13,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2021/02
 
+## Gustavo Kenji
+- [Saint Punk - Empty Bed](https://www.youtube.com/watch?v=dK2FJQX24Io)
+- [AJ Tracey - Little More Love](https://www.youtube.com/watch?v=lWPxPcShVZE)
+- [Lady Bee feat. Dame1 - Soon Not Later](https://www.youtube.com/watch?v=FNoPSJl4qJI)
+- [Arlow - Freefall](https://www.youtube.com/watch?v=SxfSpqFWJAg)
+- [Snavs - Change Us](https://www.youtube.com/watch?v=yzdimkUC_kE)
+- [mico](https://www.youtube.com/watch?v=EUMNqA-KM5U&t=99s)
+
 # 2021/01 (encerrado)
 
 ## Eduardo Spagna
