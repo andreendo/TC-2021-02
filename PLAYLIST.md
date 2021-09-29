@@ -13,6 +13,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2021/02
 
+## Zyon Amadeus
+- [Push the Feeling On](https://youtu.be/ZBR2sraqEVI)
+- [Good Life](https://youtu.be/dPMfjOoWVnk)
+- [Dem Na Like Me VIP Remix](https://youtu.be/FIipaqZXGXA)
+- [The Whistle Song](https://youtu.be/QIdimVDuSEU)
+- [You don't know me](https://youtu.be/a8u5-CnmJk8)
+- [mico](https://youtu.be/m62SvAhxbRg)
+
 # 2021/01 (encerrado)
 
 ## Eduardo Spagna
