@@ -13,6 +13,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2021/02
 
+## Pedro Henrique Alves de Souza
+- [Jeremy Zucker - comethru](https://www.youtube.com/watch?v=jO2viLEW-1A)
+- [valtboy - aftermath](https://www.youtube.com/watch?v=KqhYe9PxE0E)
+- [Memories - Maroon 5](https://www.youtube.com/watch?v=SlPhMPnQ58k)
+- [Ed Sheeran - Castle On The Hill](https://www.youtube.com/watch?v=K0ibBPhiaG0)
+- [Ed Sheeran - Visiting Hours](https://www.youtube.com/watch?v=t3CoEyYEf4A)
+- [mico](https://www.youtube.com/watch?v=DbS4UOVb4Ew)
+
 # 2021/01 (encerrado)
 
 ## Eduardo Spagna
