@@ -3,7 +3,7 @@
 - [Prof. André T. Endo](https://github.com/andreendo)
 
 ## Alunos - 2021-02
-- [Novo Aluno](https://github.com/novo_aluno)
+- [João Marcel] (https://github.com/jm-marcel)
 
 ## Semestres Passados
 
@@ -35,4 +35,3 @@
 - [Caroline Adão](https://github.com/caroladao)
 - [Gabriel dos Santos Souza](https://github.com/gabrieldss)
 - [Lucas Pereira de Moura](https://github.com/LucaSansa)
-- [João Marcel] (https://github.com/jm-marcel)
