@@ -3,11 +3,13 @@
 - [Prof. André T. Endo](https://github.com/andreendo)
 
 ## Alunos - 2021-02
+
 - [João Marcel] (https://github.com/jm-marcel)
 
 ## Semestres Passados
 
 ### Alunos - 2021-01 (semestre encerrado)
+
 - [Danrlei Andolhe Dal Fré](https://github.com/danrleidalfre)
 - [Eduardo Spagna](https://github.com/eduardo-spagna)
 - [Gabriel Moura](https://github.com/Gabrielbemo)
