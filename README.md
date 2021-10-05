@@ -3,7 +3,7 @@
 - [Prof. André T. Endo](https://github.com/andreendo)
 
 ## Alunos - 2021-02
-- [Novo Aluno](https://github.com/novo_aluno)
+- [Pedro Henrique Alves de Souza](https://github.com/pedrorreiro)
 
 ## Semestres Passados
 
